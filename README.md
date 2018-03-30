@@ -23,9 +23,7 @@ As you learn to code, you will get stuck. Many times. Don't get discouraged!
 
 **Find a newsroom project that Python can help you solve (rather than setting out to "learn Python").** Python is a tool that you can use to accomplish some goal. Don't feel like you have to be a master before you can start writing scripts -- find a project and get cracking.
 
-**Break the problem into manageable chunks.** Take things one step at a time. Don't think about everything you need to do in order to get an Slack alert whenever a batch of new campaign finance data is posted that includes the governor's family. Think about what you need to do to fetch the page. Then think about what you need to do to parse the HTML. Then worry about writing a function to hit Slack. Etc.
-
-Aim for progress in small increments: Don't start by trying to write all the code you'd need to do to to calculate the average MLB catcher's opening-day salary, then running the script; start by importing the libraries you need, then run the script, then import the CSV, then run the script, etc. That way you'll catch errors quicker and you'll be able to see more clearly where problems are being introduced.
+**Break the problem into manageable chunks.** Take things one step at a time. Don't think about everything you need to do in order to get an Slack alert whenever a batch of new campaign finance data is posted that includes the governor's family. Think about what you need to do to fetch the page. Write that code, one step at a time, and run it to make sure it works. Then think about what you need to do to parse the HTML. Then worry about writing a function to hit Slack. That way you'll catch errors quicker and you'll be able to see more clearly where problems are being introduced.
 
 ![baby steps to the elevator](img/bob.jpg "He's doing the work, he's not a slacker!")
 
