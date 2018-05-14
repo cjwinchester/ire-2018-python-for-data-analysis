@@ -1,7 +1,7 @@
 # #IRE18: Working with data in Python for beginners
-Code and documentation for "Working with data in Python for beginners," a 3-hour class at [IRE 2018 in Orlando, Florida](https://ire.org/conferences/ire-2018/).
+Code and documentation for ["Working with data in Python for beginners,"](https://www.ire.org/events-and-training/event/3190/3784/) a 3-hour class at [IRE 2018 in Orlando, Florida](https://ire.org/conferences/ire-2018/).
 
-- **When:** TK
+- **When:** Friday, June 15 at 9 a.m.
 
 - **Where:** TK
 
@@ -11,7 +11,7 @@ Code and documentation for "Working with data in Python for beginners," a 3-hour
 
 ## Afterward
 
-[Here's a quick guide](appendix/Starting%20a%20new%20Python%20project%20from%20scratch.ipynb) to starting a new data analysis project on _your_ computer.
+[Here's a quick guide](reference/Starting%20a%20new%20Python%20project%20from%20scratch.ipynb) to starting a new data analysis project on _your_ computer.
 
 If you run into trouble, ask for help! (👇👇👇 _Keep reading_ 👇👇👇)
 
@@ -29,7 +29,7 @@ As you learn to code, you will get stuck. Many times. Don't get discouraged!
 
 Sketching out your ideas on paper, in _pseudocode_, can be a good way to break things down. In other words, write out the things you want to accomplish informally, not worrying about syntax -- just get the ideas down on paper. Then come back and translate what you have into working code.
 
-**Ask for help.** Many, many people want to help you succeed. Here are just a handful of places where you can post Python questions and get help from working journalists:
+**Ask for help.** You have many friends in journalism who want to help you succeed. Here are just a handful of places where you can post Python questions and get help:
 
 - [NICAR-L](https://www.ire.org/resource-center/listservs/subscribe-nicar-l/)
 - [Newsnerdery Slack](http://newsnerdery.org/) (check the #python channel)
@@ -38,7 +38,7 @@ Sketching out your ideas on paper, in _pseudocode_, can be a good way to break t
 
 **... but Google your problem first.** It is _highly unlikely_ that you are the first person in history to encounter your problem. If you have an error message, Google it. If you are trying to remember "how to open a csv file in python," Google it. The ProPublica nerds have a [great post](https://www.propublica.org/nerds/item/how-to-ask-programming-questions) on question-asking strategies.
 
-A typical development cycle: Write some code. Run it. See what errors break your script. Throw in some strategically placed `print()` statements. Check the documentation. Google around. Fix your errors. Encounter new and different errors! Rinse and repeat. (n.b. Googling your error is not "cheating" -- it's often the first step in resolving your problem. And if you get really stuck, don't be afraid to ask for help.)
+A typical development cycle: Write some code. Run it. See what errors break your script. Throw in some strategically placed `print()` statements. Check the documentation. Google around. Fix your errors. Encounter new and different errors! Rinse and repeat.
 
 **Find a coding buddy or mentor, or both.** It's nice to have somebody who's learning alongside you, and it's _extra_ nice to have a mentor who's willing to help you through the baby steps.
 
