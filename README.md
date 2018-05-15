@@ -7,6 +7,8 @@ Code and documentation for ["Working with data in Python for beginners,"](https:
 
 - **What:** This class will introduce you to the Python programming language as it is used to analyze data in the newsroom. We'll cover basic syntax and programming concepts; newsroom use cases and examples; and analyze data using a library called [`pandas`](https://pandas.pydata.org). We'll also talk about how to get up and running with Python on your own machine so you can take it all home.
 
+- **Who:** Taught by me and [Matt Wynn](https://github.com/mattwynn1).
+
 - **Prerequisites:** You should be comfortable working with data in spreadsheets or SQL. No programming experience required.
 
 ## Afterward
