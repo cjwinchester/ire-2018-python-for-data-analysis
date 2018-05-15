@@ -13,16 +13,16 @@ Code and documentation for ["Working with data in Python for beginners,"](https:
 
 ## Other Python classes to check out
 
-**[Intro to Python 1](https://www.ire.org/events-and-training/event/3190/3955/)** ([repo](https://github.com/sandrafish/ire18-python1))
-_Saturday, June 6, at 3 p.m. in Coral A_
+**[Intro to Python 1](https://www.ire.org/events-and-training/event/3190/3955/)** ([repo](https://github.com/sandrafish/ire18-python1))<br>
+_Saturday, June 6, at 3 p.m. in Coral A_<br>
 Teacher: [Sandra Fish](https://github.com/sandrafish)
 
-**[Intro to Python 2](https://www.ire.org/events-and-training/event/3190/3956/)** ([repo](https://github.com/richardsalex/ire18-python2))
+**[Intro to Python 2](https://www.ire.org/events-and-training/event/3190/3956/)** ([repo](https://github.com/richardsalex/ire18-python2))<br>
 _Saturday, June 6, at 4:15 p.m. in Coral A_
 Teacher: [Alex Richards](https://github.com/richardsalex)
 
-**[Web scraping with Python](https://www.ire.org/events-and-training/event/3190/3957/)**
-_Sunday, June 7, at 9 a.m. in Coral A_
+**[Web scraping with Python](https://www.ire.org/events-and-training/event/3190/3957/)**<br>
+_Sunday, June 7, at 9 a.m. in Coral A_<br>
 Teacher: [Matt Wynn](https://github.com/mattwynn1)
 
 
