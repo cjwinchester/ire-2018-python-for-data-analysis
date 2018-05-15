@@ -7,9 +7,24 @@ Code and documentation for ["Working with data in Python for beginners,"](https:
 
 - **What:** This class will introduce you to the Python programming language as it is used to analyze data in the newsroom. We'll cover basic syntax and programming concepts; newsroom use cases and examples; and analyze data using a library called [`pandas`](https://pandas.pydata.org). We'll also talk about how to get up and running with Python on your own machine so you can take it all home.
 
-- **Who:** Taught by me and [Matt Wynn](https://github.com/mattwynn1).
+- **Teachers:** Me and [Matt Wynn](https://github.com/mattwynn1).
 
-- **Prerequisites:** You should be comfortable working with data in spreadsheets or SQL. No programming experience required.
+- **Prerequisites:** You should be comfortable working with data in spreadsheets or SQL or whatever. No programming experience required.
+
+## Other Python classes to check out
+
+**[Intro to Python 1](https://www.ire.org/events-and-training/event/3190/3955/)** ([repo](https://github.com/sandrafish/ire18-python1))
+_Saturday, June 6, at 3 p.m. in Coral A_
+Teacher: [Sandra Fish](https://github.com/sandrafish)
+
+**[Intro to Python 2](https://www.ire.org/events-and-training/event/3190/3956/)** ([repo](https://github.com/richardsalex/ire18-python2))
+_Saturday, June 6, at 4:15 p.m. in Coral A_
+Teacher: [Alex Richards](https://github.com/richardsalex)
+
+**[Web scraping with Python](https://www.ire.org/events-and-training/event/3190/3957/)**
+_Sunday, June 7, at 9 a.m. in Coral A_
+Teacher: [Matt Wynn](https://github.com/mattwynn1)
+
 
 ## Afterward
 
