@@ -3,13 +3,24 @@ Code and documentation for ["Working with data in Python for beginners,"](https:
 
 - **When:** Friday, June 15 at 9 a.m.
 
-- **Where:** TK
+- **Where:** Coral A
 
 - **What:** This class will introduce you to the Python programming language as it is used to analyze data in the newsroom. We'll cover basic syntax and programming concepts; newsroom use cases and examples; and analyze data using a library called [`pandas`](https://pandas.pydata.org). We'll also talk about how to get up and running with Python on your own machine so you can take it all home.
 
 - **Teachers:** Me and [Matt Wynn](https://github.com/mattwynn1).
 
 - **Prerequisites:** You should be comfortable working with data in spreadsheets or SQL or whatever. No programming experience required.
+
+## Class outline
+
+- Overview of our setup: Python, Jupyter and pandas. Real-world examples, common newsroom scenarios for using Python, overview of reference material.
+
+- Loading and inspecting data.
+
+- Filtering, sorting and grouping data.
+
+- Creating calculated columns.
+
 
 ## Other Python classes to check out
 
@@ -28,7 +39,7 @@ Teacher: [Matt Wynn](https://github.com/mattwynn1)
 
 ## Afterward
 
-[Here's a quick guide](reference/Starting%20a%20new%20Python%20project%20from%20scratch.ipynb) to starting a new data analysis project on _your_ computer.
+[Here's a quick guide](reference/Starting%20a%20new%20Python%20project%20from%20scratch.ipynb) to starting a new Python/pandas data analysis project on _your_ computer.
 
 If you run into trouble, ask for help! (👇👇👇 _Keep reading_ 👇👇👇)
 
@@ -40,11 +51,11 @@ As you learn to code, you will get stuck. Many times. Don't get discouraged!
 
 **Find a newsroom project that Python can help you solve (rather than setting out to "learn Python").** Python is a tool that you can use to accomplish some goal. Don't feel like you have to be a master before you can start writing scripts -- find a project and get cracking.
 
-**Break the problem into manageable chunks.** Take things one step at a time. Don't think about everything you need to do in order to get an Slack alert whenever a batch of new campaign finance data is posted that includes the governor's family. Think about what you need to do to fetch the page. Write that code, one step at a time, and run it to make sure it works. Then think about what you need to do to parse the HTML. Then worry about writing a function to hit Slack. That way you'll catch errors quicker and you'll be able to see more clearly where problems are being introduced.
+**Break the problem into manageable chunks.** Take things one step at a time. Don't think about everything you need to do in order to get an Slack alert whenever a batch of new campaign finance data is posted that includes the governor's family. Instead, think about what you need to do to fetch the page. Write that code, one step at a time, and run it to make sure it works. Then think about what you need to do to parse the HTML. Then worry about writing a function to hit Slack. With this approach, you'll catch errors quicker and see more clearly where problems are being introduced.
 
 ![baby steps to the elevator](img/bob.jpg "He's doing the work, he's not a slacker!")
 
-Sketching out your ideas on paper, in _pseudocode_, can be a good way to break things down. In other words, write out the things you want to accomplish informally, not worrying about syntax -- just get the ideas down on paper. Then come back and translate what you have into working code.
+Sketching out your ideas on paper, in [_pseudocode_](http://www.unf.edu/~broggio/cop2221/2221pseu.htm), can be a good way to break things down. Write out the things you want to accomplish informally, not worrying about syntax -- just get the ideas down on paper. Then come back and translate what you have into working code.
 
 **Ask for help.** You have many friends in journalism who want to help you succeed. Here are just a handful of places where you can post Python questions and get help:
 
